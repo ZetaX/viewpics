@@ -1,1 +1,19 @@
-mon premier git
+VIEWPICS v0.1
+
+ceci est la première version de ma gallerie.
+
+Jérémie.
+
+À VENIR
+ 
+ - bouton zip pour récupérer le dossier avec les photos. 
+ - utilisation de lightbox pour la vusualisation
+ - système de thumbnails
+ - gestionnaire des utilisateurs
+ 
+ 28/04/2012
+ 
+  - permet d'envoyer des fichiers multiples via une formulaire PHP5
+  - utilisation du BootStrap Twitter pour le thème
+  - permet de créer des dossiers
+  -
