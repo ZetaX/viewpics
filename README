@@ -11,9 +11,14 @@ Jérémie.
  - système de thumbnails
  - gestionnaire des utilisateurs
  
- 28/04/2012
+ 28/04/2012 
  
   - permet d'envoyer des fichiers multiples via une formulaire PHP5
   - utilisation du BootStrap Twitter pour le thème
-  - permet de créer des dossiers
-  -
+  - permet de créer des dossiers et des sous-dossiers
+  
+ 29/04/2012
+ 
+  - création des miniatures et visualisation avec lightbox.
+  - changement de la gestion des répertoires -> utilisation de tableaux plutôt de récursions.
+  - réécriture plus modulaire.
